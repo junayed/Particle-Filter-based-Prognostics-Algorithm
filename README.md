@@ -2,7 +2,7 @@
 This is an attempt of implementing the original paper titled as
  "Prognostics 101: A tutorial for particle filter-based prognostics algorithm using Matlab" (https://www.sciencedirect.com/science/article/abs/pii/S0951832013000549)
  
- The original matlab code is available to the website of the author - Dawn An (https://sites.google.com/site/dawnan1114/research/particle-filter-prognostics) titled as Particle Filert Code.
+ The original matlab code is available to the website of the author - Dawn An (https://sites.google.com/site/dawnan1114/research/particle-filter-prognostics) titled as Particle Filter Code.
  
  In this paper, the authors implemented all the things by using matlab software. 
  
